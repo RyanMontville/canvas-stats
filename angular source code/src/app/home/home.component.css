@@ -1,0 +1,29 @@
+.pixel-demo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid black;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.colors-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.count {
+    border: 1px solid #424651;
+    margin: 5px;
+    padding: 5px;
+}
+
+.color-link {
+    cursor: pointer;
+}
