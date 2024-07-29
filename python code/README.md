@@ -1,5 +1,5 @@
 # Pyhton code
-Here are some of the oython functions I used for Canvas Stats.
+Here are some of the python functions I used for Canvas Stats.
 
 I wanted to build a slightly different database than the sql file posted by the Canvas event developer. His database had all of the data in a single table. I wanted to create a users table so I could create additional tables and join them. I also created a color table to store the color names and hex values. 
 
