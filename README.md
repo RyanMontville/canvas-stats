@@ -16,7 +16,7 @@ A few days after the event, and after I had created my database and ran all my f
 
 The app is now live on [CanvasStats.com](https://canvasstats.com/)
 
-![The stats for the 2024 event](https://raw.githubusercontent.com/TheRealMonte/therealmonte.github.io/main/screenshots/home.png)
-![An example of a user's stats](https://raw.githubusercontent.com/TheRealMonte/therealmonte.github.io/main/screenshots/user-view.png)
-![An example of displaying the pixels placed by a user](https://raw.githubusercontent.com/TheRealMonte/therealmonte.github.io/main/screenshots/user-pixels.png)
-![An image of all the black pixels placed on the canvas](https://raw.githubusercontent.com/TheRealMonte/therealmonte.github.io/main/screenshots/color-view.png)
+![The stats for the 2024 event](https://raw.githubusercontent.com/RyanMontville/canvas-stats/main/screenshots/home.png)
+![An example of a user's stats](https://raw.githubusercontent.com/RyanMontville/canvas-stats/main/screenshots/user-view.png)
+![An example of displaying the pixels placed by a user](https://raw.githubusercontent.com/RyanMontville/canvas-stats/main/screenshots/user-pixels.png)
+![An image of all the black pixels placed on the canvas](https://raw.githubusercontent.com/RyanMontville/canvas-stats/main/screenshots/color-view.png)
